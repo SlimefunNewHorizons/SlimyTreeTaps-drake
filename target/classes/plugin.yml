@@ -1,0 +1,10 @@
+name: SlimyTreeTaps
+version: 11.0-Universal-26.x-SNAPSHOT
+author: TheBusyBiscuit
+description: A Slimefun4 Addon that adds an alternative way of getting plastic - Through rubber from trees.
+website: https://github.com/TheBusyBiscuit/SlimyTreeTaps
+
+main: com.github.drakescraft_labs.slimytreetaps.TreeTaps
+depend: [Slimefun]
+
+api-version: "1.21"
