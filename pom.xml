@@ -27,6 +27,12 @@
         <repository>
             <id>drakescraft-labs-maven</id>
             <url>https://maven.drakescraft.cl/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
         </repository>
         <repository>
             <id>jitpack</id>
