@@ -47,6 +47,12 @@ Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente
 
 ## 📋 Compatibilidad Técnica
 
+La tabla siguiente describe la línea histórica `main` para 1.21.11. La rama
+`port-26x` usa el core `11.0-Universal-26.x-SNAPSHOT` y requiere JDK 25 para
+compilar sus dependencias, con imports Slimefun universales. Una compilación
+correcta no acredita pruebas de ejecución en Paper 26.x; este parche de imports
+no se ha probado todavía en un servidor.
+
 | Parámetro | Requisito |
 |---|---|
 | **Servidor** | Paper / Purpur / Folia **1.21.11** |
