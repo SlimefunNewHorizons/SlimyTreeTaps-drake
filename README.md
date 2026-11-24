@@ -50,8 +50,10 @@ Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente
 La tabla siguiente describe la línea histórica `main` para 1.21.11. La rama
 `port-26x` usa el core `11.0-Universal-26.x-SNAPSHOT` y requiere JDK 25 para
 compilar sus dependencias, con imports Slimefun universales. Una compilación
-correcta no acredita pruebas de ejecución en Paper 26.x; este parche de imports
-no se ha probado todavía en un servidor.
+correcta no acredita pruebas de ejecución en Paper 26.x. El parche de imports
+se cargó en staging Paper 26.2 el 24 de noviembre de 2026: plugin habilitado y
+arranque completo. Las interacciones de los ítems con jugadores siguen sin
+probarse en este ensayo.
 
 | Parámetro | Requisito |
 |---|---|
